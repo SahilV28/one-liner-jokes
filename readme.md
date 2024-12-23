@@ -4,6 +4,18 @@
 
 ---
 
+## Usage
+// Import the package and call the function to get a random joke:
+
+
+const getJoke = require('my-jokes');
+
+console.log(getJoke());
+
+// When you run the code above, it will print a random one-liner joke to the console.
+
+---
+
 ## Features
 - 🎭 **20+ hilarious one-liner jokes**.
 - 🎲 Returns a random joke every time you use it.
